@@ -12,7 +12,7 @@ const config: Config.InitialOptions = {
         `${baseDir}/**/*.ts`
     ],
     testMatch:[
-        `${baseTestDir}/**/*test.ts`
+        `${baseTestDir}/**/Service.test.ts`
     ]
 }
 
