@@ -1,7 +1,6 @@
 import { UsersAccess } from "../app/UsersAccess"
 import { User } from "../app/UsersModel";
 
-
 describe('UsersAccess test suite', () => {
     
     let usersAccess: UsersAccess;
