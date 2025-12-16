@@ -1,8 +1,6 @@
 import { User } from "./UsersModel";
 import * as dbConnection from './DataBaseConnector';
 
-
-
 export class UsersAccess {
 
     public async connectToDb(){
